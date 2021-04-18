@@ -1,5 +1,5 @@
 ### Hi there 👋
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kantasasakimaru)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kantasasakimaru&show_icons=true&count_private=true)
 ![GitHub Extra Pins](https://github-readme-stats.vercel.app/api/pin/?username=kantasasakimaru&repo=location_alarm)
 ![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?kantasasakimaru=location_alarm)
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=kantasasakimaru&layout=compact)
