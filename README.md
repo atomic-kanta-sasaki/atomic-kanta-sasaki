@@ -1,59 +1,12 @@
-### 👋 Hi! I'm SuguruOoki
-
 <p align="left"> 
-  <a href="https://github.com/SuguruOoki/SuguruOoki/">
-    <img src="https://komarev.com/ghpvc/?username=SuguruOoki" alt="SuguruOoki" />
-  </a>
-  <a href="http://twitter.com/gurusu_program">
-    <img height="20" src="https://img.shields.io/twitter/follow/gurusu_program?label=Twitter&logo=twitter&style=flat" />
-  </a>
-  <a href="https://github.com/SuguruOoki">
-    <img height="20" src="https://img.shields.io/github/followers/SuguruOoki?label=follow&logo=github&style=flat" />
-  </a>
-  <a href="https://www.reddit.com/user/SuguruOoki">
-    <img height="20" src="https://img.shields.io/reddit/user-karma/combined/SuguruOoki?label=Reddit&logo=reddit&style=flat" />
-  </a>
-  <a href="https://stackoverflow.com/users/8851426/suguru-oki">
-    <img height="20" src="https://img.shields.io/stackexchange/stackoverflow/r/8851426?label=StackOverflow&logo=stack-overflow&style=flat" />
-  </a>
-  <a href="http://qiita.com/SuguruOoki">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/SuguruOoki/posts.svg" />
-  </a>
-  <a href="http://qiita.com/SuguruOoki">
-    <img height="20" src="https://qiita-badge.apiapi.app/s/SuguruOoki/contributions.svg" />
-  </a>
+  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kantasasakimaru&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
+  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=kantasasakimaru&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
 </p>
 
-<p align="left"> 
-  <a href="https://SuguruOoki.github.io/">
-    <img alt="homepage" width="30px" src="https://image.flaticon.com/icons/svg/565/565527.svg" />
-  </a>
-  <a href="https://twitter.com/SuguruOoki">
-    <img alt="twitter" width="30px" src="https://image.flaticon.com/icons/svg/123/123728.svg" />
-  </a>
-  <a href="https://qiita.com/SuguruOoki">
-    <img alt="qiita" width="30px" src="https://simpleicons.org/icons/qiita.svg" />
-  </a>
-  <a href="https://dev.to/SuguruOoki" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="SuguruOoki" height="30" width="30" />
-  </a>
-  <a href="https://stackoverflow.com/users/suguru-oki" target="blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="SuguruOoki" height="30" width="30" />
-  </a>
-  <a href="https://www.quora.com/profile/Yutakatay" target="blank">
-    <img src="https://www.flaticon.com/svg/static/icons/svg/732/732105.svg" alt="SuguruOoki" height="30" width="30" />
-  </a>
-</p>
-
-<p align="left"> 
-  <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SuguruOoki&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-  <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=SuguruOoki&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
-</p>
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=SuguruOoki&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
-[![](https://raw.githubusercontent.com/SuguruOoki/SuguruOoki/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/SuguruOoki/SuguruOoki/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-[![](https://raw.githubusercontent.com/SuguruOoki/SuguruOoki/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kantasasakimaru&theme=gruvbox)](https://github.com/ryo-ma/github-profile-trophy)
+[![](https://raw.githubusercontent.com/kantasasakimaru/kantasasakimaru/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/kantasasakimaru/kantasasakimaru/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/kantasasakimaru/kantasasakimaru/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
 #### Development Environment
