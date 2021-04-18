@@ -1,6 +1,4 @@
 ### Hi there 👋
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kantasasakimaru&show_icons=true&count_private=true&theme=synthwave)
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=kantasasakimaru&show_icons=true&count_private=true&theme=synthwave&layout=compact)
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=kantasasakimaru&show_icons=true&count_private=true&theme=synthwave" />
