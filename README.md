@@ -11,7 +11,7 @@
 
 #### Development Environment
 
-- Often Using Languages: Python Java
+- Often Using Languages: Python Java Node.js
 - Editor: VsCode
 - Shell: fish
 - Terminal: iterm
