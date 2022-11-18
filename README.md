@@ -20,7 +20,7 @@
 - Keyboard: Maestro 2S US Keyboard
 - Mouse: MagicTrackPad
 - Smartphone: iPhone13
-- tablet: iPad Air and Apple Pencil
+- Tablet: iPad Air and Apple Pencil
 
 #### Languages and Tools
 
