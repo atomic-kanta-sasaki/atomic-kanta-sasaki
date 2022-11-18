@@ -19,7 +19,8 @@
 - PC: Macbook Pro
 - Keyboard: Maestro 2S US Keyboard
 - Mouse: MagicTrackPad
-- Smartphone: iPhoneSE2
+- Smartphone: iPhone13
+- tablet: iPad Air and Apple Pencil
 
 #### Languages and Tools
 
