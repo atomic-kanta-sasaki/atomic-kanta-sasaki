@@ -1,8 +1,3 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
-</picture>
 <p align="left"> 
   <img alt="Top Langs" height="150px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=atomic-kanta-sasaki&layout=compact&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=atomic-kanta-sasaki&count_private=true&show_icons=true&show_icons=true&theme=onedark" />
@@ -12,20 +7,6 @@
 [![](https://raw.githubusercontent.com/atomic-kanta-sasaki/atomic-kanta-sasaki/master/profile-summary-card-output/dracula/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/atomic-kanta-sasaki/atomic-kanta-sasaki/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/atomic-kanta-sasaki/atomic-kanta-sasaki/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
-
-
-#### Development Environment
-
-- Often Using Languages: Python Java Node.js
-- Editor: VsCode
-- Shell: fish
-- Terminal: iterm
-- OS: OSX
-- PC: Macbook Pro
-- Keyboard: Maestro 2S US Keyboard
-- Mouse: MagicTrackPad
-- Smartphone: iPhone13
-- Tablet: iPad Air and Apple Pencil
 
 #### Languages and Tools
 
@@ -42,3 +23,8 @@
   <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/vim/vim-original.svg" height="40" width="40">
   <img src="https://raw.githubusercontent.com/devicons/devicon/9c6bfdb9783cdfe1018666ed76adcfd3eab6fad6/icons/slack/slack-original-wordmark.svg" height="40" width="40">
 </p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/obregonia1/obregonia1/master/img/snake.svg">
+</picture>
