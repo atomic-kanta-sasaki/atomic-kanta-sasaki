@@ -8,6 +8,19 @@
 [![](https://raw.githubusercontent.com/atomic-kanta-sasaki/atomic-kanta-sasaki/master/profile-summary-card-output/dracula/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 [![](https://raw.githubusercontent.com/atomic-kanta-sasaki/atomic-kanta-sasaki/master/profile-summary-card-output/dracula/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
+#### Development Environment
+
+- Often Using Languages: Python Java Node.js
+- Editor: VsCode
+- Shell: zsh
+- Terminal: iterm
+- OS: OSX
+- PC: Macbook Pro
+- Keyboard: NiZ
+- Mouse: MagicTrackPad
+- Smartphone: iPhone13
+- Tablet: iPad Air and Apple Pencil
+
 #### Languages and Tools
 
 <p align="left">
